@@ -1,8 +1,8 @@
 <h1>👋 Hi there!, I’m Jose Cuevas</h1>
 
-- I´m a full stack developer passionate about technology, reading, music and surfing. My main goal is to improve and learn new things every day.
-- 👀 I’m interested in learning new things every day and I neve give up
-- 🌱 I’m currently learning and improving my knowledge of Typescript
+- I´m a full stack developer passionate about technology, reading, music and surfing.
+- I’m a curious persson, interested in learning new things every day... and I never give up
+- I’m currently learning and improving my knowledge of Typescript
 
 
 <h2>Languages and technologies</h2>
