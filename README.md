@@ -1,18 +1,18 @@
 <h1>👋 Hi there!, I’m Jose Cuevas</h1>
 
 - I´m a full stack developer passionate about technology, reading, music and surfing. My main goal is to improve and learn new things every day.
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in learning new things every day and I neve give up
+- 🌱 I’m currently learning and improving my knowledge of Typescript
 
 
 <h2>Languages and technologies</h2>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,js,react,nodejs,express,mongodb,bootstrap,git,github,ts,php,mysql,laravel,redux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,js,react,nodejs,express,mongodb,bootstrap,git,github,ts,php,mysql,laravel,redux,powershell)](https://skillicons.dev)
 
 
 <h2>Tools</h2>
+
+[![My Skills](https://skillicons.dev/icons?i=ps,vscode,pr,ai,figma)](https://skillicons.dev)
 
 
 **Connect with me:**   
